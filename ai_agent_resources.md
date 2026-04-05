@@ -11,3 +11,6 @@ Github有众多优秀的Agent、大模型相关项目可以学习，等学会理
 vibecoding：datawhalechina/easy-vibe: easy vibe 👋 一起 vibe｜ Learn Vibe Coding From 0 to 1｜ Vibe Coding 零基础｜产品原型、AI 与全栈多平台开发教程｜Tutorial on Product Prototype, AI & Full-Stack Multi-platform Dev (github.com)
 手把手教你写个龙虾：datawhalechina/hello-claw: 哈喽！龙虾 🙋‍♀️，首个体系化 openclaw 中文开源教程 ｜ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！ (github.com)
 datawhalechina/hello-agents: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (github.com)
+
+
+2.bytedance/deer-flow: An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. (github.com)
